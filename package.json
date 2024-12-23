@@ -1,0 +1,20 @@
+{
+  "name": "my-game",
+  "version": "1.0.0",
+  "description": "A simple game project using ES6 classes and Webpack",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "start": "lite-server"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.21.0",
+    "@babel/preset-env": "^7.21.0",
+    "babel-loader": "^9.1.2",
+    "lite-server": "^2.6.1",
+    "webpack": "^5.97.1",
+    "webpack-cli": "^5.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
